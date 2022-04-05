@@ -7,6 +7,7 @@ documentation = "https://docs.rs/biiter"
 readme = "README.md"
 homepage = "https://github.com/muppi090909/BiIter"
 repository = "https://github.com/muppi090909/BiIter"
+description = "A bidirectional Iterator"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
